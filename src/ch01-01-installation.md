@@ -97,7 +97,7 @@ In Windows CMD, use:
 In PowerShell, use:
 
 ```powershell
-> echo $env:Path
+> $env:Path
 ```
 
 In Linux and macOS, use:
